@@ -1,6 +1,4 @@
 <template>
-    <!-- <h1 class="mt-5 text-center text-4xl">ProposalWatch</h1>
-    <h4 class="my-1 text-center text-lg">(Maintained by Sonic)</h4> -->
     <v-chart class="overflow-hidden" :option="option" theme="dark" autoresize />
 </template>
 
